@@ -4,7 +4,7 @@ header{background: black;}
 width: 90px;
 margin-left: 20px;}
 
-.nav1 ul li{display: inline-block;
+nav ul li{display: inline-block;
 list-style: none;
 color: white;
 text-decoration: none;
@@ -12,11 +12,11 @@ font-size: 20px;
 margin-top: 30px;
 padding-left: 80px}
 
-.nav1 ul li a{text-decoration: none;
+nav ul li a{text-decoration: none;
 color: white;
 padding: 15px;}
 
-.nav1 ul li a:hover{color: #bf9a2f;}
+nav ul li a:hover{color: #bf9a2f;}
 
 
 .nav2 h1{font-size: 120px;
@@ -227,3 +227,11 @@ border: solid white 1px;}
 .nav24 a:hover{background: grey;
 color: black;
 border: solid white 1px;}
+
+nav img{width: 100px;
+height: 100px;}
+
+li{font-size: 22px;
+margin-left: 30px;
+margin: 20px;
+color: white;
