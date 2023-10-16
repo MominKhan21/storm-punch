@@ -214,3 +214,11 @@ text-align: center;
 padding: 20px;}
 
 footer{background: black;}
+
+.nav6 a:hover{background: grey;
+color: black;
+border: solid white 1px;}
+
+.nav24 a:hover{background: grey;
+color: black;
+border: solid white 1px;}
